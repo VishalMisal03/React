@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import List from "./List1";
 import Props from "./Props";
@@ -44,3 +45,19 @@ function ReactForms() {
 };
 
 export default ReactForms;
+=======
+import Login,{Profile,Setting}from './UserComponent'
+
+function App() {
+
+  return (
+    <div>
+      <h1>Import and Exporting Components</h1>
+      <Login/>
+      <Profile/>
+      <Setting/>
+    </div>
+  )
+}
+export default App
+>>>>>>> 65c131d1d4f8053270f8d0883635d7333f2bc44a

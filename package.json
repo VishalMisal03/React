@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "basic",
+=======
+  "name": "vishal",
+>>>>>>> 65c131d1d4f8053270f8d0883635d7333f2bc44a
   "private": true,
   "version": "0.0.0",
   "type": "module",
